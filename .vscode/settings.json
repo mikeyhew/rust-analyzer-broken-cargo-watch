@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.cargo-watch.arguments": [
+    "--workspace"
+  ],
+  "rust-analyzer.cargo-watch.enable": true
+}
